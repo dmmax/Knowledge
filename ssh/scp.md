@@ -1,6 +1,5 @@
-# SCP command
-
-Syntax
+# How to use SCP command
+## Syntax
 ```bash
 scp [OPTION] [user@]SRC:]file1 [user@]DEST:]file2
 ```
@@ -11,14 +10,14 @@ where is
 * DEST – is a destination host
 
 ## SCP copy local file to remote system
-### SCP copy local file under remote folder
+### SCP copy local file to remote with output path
 ```bash
 scp /mnt/test/test.txt ubuntu@10.130.10.10:/home/ubuntu/test_folder/myfile.txt
 ```
 This command will copy `test.txt` to the remote file, you could provide another
 name filename for remote system
 
-### SCP copy local file to remote folder
+### SCP copy local file under remote folder
 ```bash
 scp /mnt/test/test.txt ubuntu@10.130.10.10:/home/ubuntu/test_folder
 ```
@@ -43,4 +42,4 @@ scp ec2-user@18.135.23.123:/opt/my_folder/test.txt ubuntu@10.130.10.10:/home/ubu
 
 ## SCP options
 * `-r` – copy recursively
-* `-P` – specifing the SSH port (default: 22)
+* `-P` – specifying the SSH port (default: 22)
