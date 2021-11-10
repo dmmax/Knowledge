@@ -34,8 +34,18 @@ git push origin --delete feature_x
 If you're on the branch `feature_x` and you need to pull changes from the `main`
 branch, then the next example will be useful
 ```bash
-git fetch origin X # pull the latests changes from remote
+git fetch origin main # pull the latests changes from remote
 git checkout feature_x
 git rebase origin/main
 git push --force
 ```
+
+## Git squash my last commits
+```bash
+git reset --soft HEAD~<number_of_commits_to_squash>
+git commit -m "Squash commit meesage"
+git push --force
+```
+
+## Links
+* https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git – about squashing
