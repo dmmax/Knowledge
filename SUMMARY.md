@@ -8,3 +8,6 @@
   * [SCP](ssh/scp.md)
 * Health
   * [Teeth](health/teeth.md)
+* Germany
+  * Berlin
+    * [Berlin | Christmas tree](germany/berlin/christmas-tree.md)
