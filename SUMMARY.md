@@ -6,8 +6,10 @@
 * SSH
   * [SSH bastion | SSH Jump host](ssh/ssh-jump-host.md)
   * [SCP](ssh/scp.md)
+* [Java](java.md)
 * [Kotlin](kotlin.md)
-  * [Kotlin libraries](kotlin/libraries.md) 
+* Code
+  * [Linux monitoring](code/linux-monitoring.md)
 * Health
   * [Teeth](health/teeth.md)
 * Germany
