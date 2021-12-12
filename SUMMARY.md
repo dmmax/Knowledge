@@ -15,3 +15,6 @@
 * Germany
   * Berlin
     * [Berlin | Christmas tree](germany/berlin/christmas-tree.md)
+* Travel
+  * Russia
+    * [Moscow](travel/russia/moscow.md)
