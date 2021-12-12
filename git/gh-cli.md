@@ -32,4 +32,4 @@ gh pr view --web
 ```
 
 ## Links
-* https://github.com/cli/cli
+* [GitHub CLI](https://github.com/cli/cli)

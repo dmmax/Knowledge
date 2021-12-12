@@ -48,4 +48,4 @@ git push --force
 ```
 
 ## Links
-* https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git – about squashing
+* [About squashing](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git)

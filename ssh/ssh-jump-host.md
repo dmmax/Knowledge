@@ -23,7 +23,6 @@ ssh -i "aws_ireland.pem" \
 ```
 
 ## SSH command options
-
 * `-i` – a path to a file (private key)
 * `-v` – verbose mode
 * `-q` – quiet mode
