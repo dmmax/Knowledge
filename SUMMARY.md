@@ -17,4 +17,5 @@
     * [Berlin | Christmas tree](germany/berlin/christmas-tree.md)
 * Travel
   * Russia
-    * [Moscow](travel/russia/moscow.md)
+    * [Moscow](travel/russia/moscow/readme.md)
+      * [Moscow | Attractions](travel/russia/moscow/attraction/readme.md)
