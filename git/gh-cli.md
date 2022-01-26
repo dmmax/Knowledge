@@ -25,6 +25,7 @@ Command options:
 * `-a`/`--assignee` – assignee by their usernames
 * `-b`/`--body`     - body for the pull request
 * `-r`/`--reviewer` - request reviews from people or teams by their user(group) names
+* `-d`/`--draft`    – mark pull request as a draft
 
 ### GH CLI open pull request in browser
 ```bash
