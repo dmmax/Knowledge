@@ -6,6 +6,9 @@
 * SSH
   * [SSH bastion | SSH Jump host](ssh/ssh-jump-host.md)
   * [SCP](ssh/scp.md)
+* Company
+  * [Corporate culture](company/corporate-culture/readme.md)
+* [Management](management/readme.md)
 * [Java](java.md)
 * [Kotlin](kotlin.md)
 * Code
