@@ -13,6 +13,8 @@
 * [Kotlin](kotlin.md)
 * Code
   * [Linux monitoring](code/linux-monitoring.md)
+* Productivity
+  * [Alfred](productivity/alfred/readme.md)
 * Health
   * [Teeth](health/teeth.md)
 * Germany
