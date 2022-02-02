@@ -10,6 +10,7 @@ Command options:
 * `-b`/`--body`     - body for the pull request
 * `-r`/`--reviewer` - request reviews from people or teams by their user(group) names
 * `-d`/`--draft`    – mark pull request as a draft
+* `-B`/`--base`     - the base branch, in this branch your code will be merged
 
 ## GH CLI open pull request in browser
 ```bash
