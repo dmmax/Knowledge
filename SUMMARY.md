@@ -25,6 +25,8 @@
     * [Moscow](travel/russia/moscow)
       * [Moscow | Attractions](travel/russia/moscow/attraction)
 * [Writing](writing)
+  * [Markdown](writing/markdown)
+    * [Markdown | Tables](writing/markdown/tables)
 * Optimization
   * Email
     * [Zero inbox](optimization/email/zero-inbox.md)
