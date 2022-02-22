@@ -26,7 +26,10 @@
       * [Moscow | Attractions](travel/russia/moscow/attraction)
 * [Writing](writing)
   * [Markdown](writing/markdown)
-    * [Markdown | Tables](writing/markdown/tables)
+    * [Markdown | Tables](writing/markdown/tables.md)
 * Optimization
   * Email
     * [Zero inbox](optimization/email/zero-inbox.md)
+* Finance
+  * [Investment](finance/investment)
+    * [Online brokers](finance/investment/online-brokers.md)
