@@ -1,4 +1,6 @@
 # Writing | Markdown
 
+* [How-to
+
 ## Links
-* [https://github.com/tchayen/markdown-links](How to build graph of local markdown links)
+* [How to build graph of local markdown links](https://github.com/tchayen/markdown-links)

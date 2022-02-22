@@ -1,4 +1,22 @@
-# Markdown tables | How to
+# Markdown | Tables
+
+## How to align Markdown tables
+After the header row, you can one more row with triple-dash.
+
+triple-dash – align-left
+```md
+---
+```
+
+adding a colon after triple-dash – right-align
+```md
+---:
+```
+
+adding a color before and after triple-dash – center-align
+```md
+:---:
+```
 
 ```md
 | Header 1  | Header 2      | Header 3    |
