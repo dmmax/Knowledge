@@ -20,6 +20,8 @@
 * Germany
   * Berlin
     * [Berlin | Christmas tree](germany/berlin/christmas-tree.md)
+  * [Germany | Internet](germany/internet)
+    * [Install custom router for telekom](germany/internet/telekom-install-custom-router.md)
 * Travel
   * Russia
     * [Moscow](travel/russia/moscow)
