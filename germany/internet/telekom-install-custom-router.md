@@ -22,3 +22,6 @@ You can find `Anschlusskennung`, `Zugangsnummer`, `Mitbenutzernummer`, and
 
 I had to select the special ISP Settings (IPTV/VLAN) with a profile for Telekom
 ![Special ISP settings](telekom-additional-isp-settings.png)
+
+## Links
+* [PPPoE username and password settings](https://telekomhilft.telekom.de/t5/Alles-andere/Wo-finde-ich-die-Zugangsdaten-fuer-eine-PPPOE-verbindung/td-p/1428228)
