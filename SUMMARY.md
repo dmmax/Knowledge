@@ -19,16 +19,16 @@
   * [Teeth](health/teeth.md)
 * Germany
   * Berlin
-    * [Berlin | Christmas tree](germany/berlin/christmas-tree.md)
-  * [Germany | Internet](germany/internet)
+    * [Where is to buy Christmas trees in Berlin](germany/berlin/christmas-tree.md)
+  * [Internet in Germany](germany/internet)
     * [Install custom router for telekom](germany/internet/telekom-install-custom-router.md)
 * Travel
   * Russia
     * [Moscow](travel/russia/moscow)
-      * [Moscow | Attractions](travel/russia/moscow/attraction)
+      * [Moscow Attractions](travel/russia/moscow/attraction)
 * [Writing](writing)
   * [Markdown](writing/markdown)
-    * [Markdown | Tables](writing/markdown/tables.md)
+    * [Markdown Tables](writing/markdown/tables.md)
 * Optimization
   * Email
     * [Zero inbox](optimization/email/zero-inbox.md)
