@@ -37,4 +37,5 @@
     * [Online brokers](finance/investment/online-brokers.md)
 * Food
   * Recipes
-    * [Tiramisu](food/recipes/tiramisu.md) 
+    * [Tiramisu](food/recipes/tiramisu.md)
+* [People](people)
