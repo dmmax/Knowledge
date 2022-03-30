@@ -10,6 +10,7 @@
   * [Corporate culture](company/corporate-culture)
 * [Management](management)
 * [Java](java)
+  * [Java | OCR](java/ocr)
 * [Kotlin](kotlin)
 * Code
   * [Linux monitoring](code/linux-monitoring.md)
