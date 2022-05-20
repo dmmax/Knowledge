@@ -1,5 +1,6 @@
 # Table of contents
 * [Second brain](second-brain)
+* [Books](books)
 * [Git](git)
 * [GH CLI](gh-cli)
   * [GH CLI | Pull Request](gh-cli/gh-cli-pr.md)
