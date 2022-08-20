@@ -15,6 +15,7 @@
 * [Kotlin](kotlin)
 * Code
   * [Linux monitoring](code/linux-monitoring.md)
+* [System Design](system-design)
 * Productivity
   * [Alfred](productivity/alfred)
 * Health
