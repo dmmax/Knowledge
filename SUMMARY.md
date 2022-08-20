@@ -33,7 +33,7 @@
 * [Writing](writing)
   * [Markdown](writing/markdown)
     * [Markdown Tables](writing/markdown/tables.md)
-* Optimization
+* Optimization(optimization)
   * Email
     * [Zero inbox](optimization/email/zero-inbox.md)
 * Finance
