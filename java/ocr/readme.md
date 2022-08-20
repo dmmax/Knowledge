@@ -89,3 +89,4 @@ if (libTess.exists()) {
 * [Hint to resolve the issue with not loaded libraries](https://github.com/RaiMan/SikuliX1/commit/49f1bf3e5330365c97085b9533050bd538119c62)
 * [How to provide more than one language to the tesseract](https://stackoverflow.com/questions/24379781/how-can-i-run-tesseract-with-multiple-languages-one-time)
 * [How to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/)
+* [Tesseract Page Segmentation Modes (PSMs) Explained: How to Improve Your OCR Accuracy](https://pyimagesearch.com/2021/11/15/tesseract-page-segmentation-modes-psms-explained-how-to-improve-your-ocr-accuracy/)
