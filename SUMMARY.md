@@ -10,6 +10,7 @@
 * Company
   * [Corporate culture](company/corporate-culture)
 * [Management](management)
+* [Analytics](analytics)
 * Distributed systems
   * RPC
     * [gRPC](distributed-systems/rpc/grpc.md)
