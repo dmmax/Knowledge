@@ -23,6 +23,7 @@
 * [OCR](ocr)
 * Productivity
   * [Alfred](productivity/alfred)
+* [Security](security)
 * Health
   * [Teeth](health/teeth.md)
 * Germany
@@ -38,7 +39,7 @@
 * [Writing](writing)
   * [Markdown](writing/markdown)
     * [Markdown Tables](writing/markdown/tables.md)
-* Optimization(optimization)
+* [Optimization](optimization)
   * Email
     * [Zero inbox](optimization/email/zero-inbox.md)
 * Finance
