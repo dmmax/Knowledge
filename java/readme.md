@@ -18,3 +18,4 @@
 * [Easytable - a library build on Apache PDFBox to build tables](https://github.com/vandeseer/easytable)
 * [pdfbox-layout – a library to work with text, paragraphs, pagination, etc](https://github.com/ralfstuckert/pdfbox-layout)
 * [How to Use Github Packages for Deploying Jars](https://betterprogramming.pub/how-to-use-github-packages-for-deploying-jars-b6e9fdb5e23c)
+* [Detect or Remove Lines From Image Using OpenCV With Spring Boot](https://heinhtetzawycc.medium.com/detect-or-remove-lines-from-image-using-opencv-with-spring-boot-ca076c4ad128)
