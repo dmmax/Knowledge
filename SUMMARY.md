@@ -19,6 +19,7 @@
 * [Kotlin](kotlin)
 * Code
   * [Linux monitoring](code/linux-monitoring.md)
+  * [Gradle](code/gradle.md)
 * [System Design](system-design)
 * [OCR](ocr)
 * Productivity
