@@ -18,7 +18,7 @@
   * [Java | OCR](java/ocr)
 * [Kotlin](kotlin)
 * Code
-  * [Linux monitoring](code/linux-monitoring.md)
+  * [Linux](code/linux.md)
   * [Gradle](code/gradle.md)
 * [System Design](system-design)
 * [OCR](ocr)
