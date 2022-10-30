@@ -17,3 +17,4 @@
 * [Apache PDFBox – open source Java tool for working with PDF documents](https://pdfbox.apache.org/)
 * [Easytable - a library build on Apache PDFBox to build tables](https://github.com/vandeseer/easytable)
 * [pdfbox-layout – a library to work with text, paragraphs, pagination, etc](https://github.com/ralfstuckert/pdfbox-layout)
+* [How to Use Github Packages for Deploying Jars](https://betterprogramming.pub/how-to-use-github-packages-for-deploying-jars-b6e9fdb5e23c)

@@ -27,6 +27,7 @@
 * Health
   * [Teeth](health/teeth.md)
 * [Container](container)
+* [Devops](devops)
 * Germany
   * Berlin
     * [Where is to buy Christmas trees in Berlin](germany/berlin/christmas-tree.md)
@@ -40,6 +41,7 @@
 * [Writing](writing)
   * [Markdown](writing/markdown)
     * [Markdown Tables](writing/markdown/tables.md)
+* [Python](python)
 * [Optimization](optimization)
   * Email
     * [Zero inbox](optimization/email/zero-inbox.md)
