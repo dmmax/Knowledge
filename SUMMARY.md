@@ -1,5 +1,6 @@
 # Table of contents
 * [Second brain](second-brain)
+* [AI - Artificial Intelligent](ai)
 * [Books](books)
 * [Git](git)
 * [GH CLI](gh-cli)
