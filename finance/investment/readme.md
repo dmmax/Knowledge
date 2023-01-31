@@ -12,3 +12,6 @@
 
 ## Links
 * [How to Start Investing for Beginners | Tips For Your 20’s](https://youtu.be/u4Adtp04JxI)
+* [Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed)
+* [Buffett Indicator: Where Are We with Market Valuations?](https://www.gurufocus.com/stock-market-valuations.php)
+* [Shiller PE Ratio](https://www.multpl.com/shiller-pe)
