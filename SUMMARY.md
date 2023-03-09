@@ -22,6 +22,7 @@
   * [Linux](code/linux.md)
   * [Gradle](code/gradle.md)
 * [System Design](system-design)
+  * [Domain Driven Design](system-design/ddd.md) 
 * [OCR](ocr)
 * Productivity
   * [Alfred](productivity/alfred)
