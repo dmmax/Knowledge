@@ -15,6 +15,7 @@
 * Distributed systems
   * RPC
     * [gRPC](distributed-systems/rpc/grpc.md)
+  * [Kafka](distributed-systems/kafka)
 * [Java](java)
   * [Java | OCR](java/ocr)
 * [Kotlin](kotlin)
