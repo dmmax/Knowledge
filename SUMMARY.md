@@ -1,6 +1,8 @@
 # Table of contents
 * [Second brain](second-brain)
 * [AI - Artificial Intelligent](ai)
+  * [AI-labeling](ai/labeling.md)
+  * [AI-training](ai/training.md)
 * [Books](books)
 * [Git](git)
 * [GH CLI](gh-cli)
