@@ -25,7 +25,9 @@
   * [Linux](code/linux.md)
   * [Gradle](code/gradle.md)
 * [System Design](system-design)
-  * [Domain Driven Design](system-design/ddd.md) 
+  * [Domain Driven Design](system-design/ddd.md)
+  * [System Design Interview](system-design/interview.md)
+  * [Load Balancing](system-design/load-balancing.md)
 * [OCR](ocr)
 * Productivity
   * [Alfred](productivity/alfred)
