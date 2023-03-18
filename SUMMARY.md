@@ -28,6 +28,7 @@
   * [Domain Driven Design](system-design/ddd.md)
   * [System Design Interview](system-design/interview.md)
   * [Load Balancing](system-design/load-balancing.md)
+  * [CDN](system-design/cdn.md)
 * [OCR](ocr)
 * Productivity
   * [Alfred](productivity/alfred)
