@@ -18,9 +18,6 @@
   * RPC
     * [gRPC](distributed-systems/rpc/grpc.md)
   * [Kafka](distributed-systems/kafka)
-* [Java](java)
-  * [Java | OCR](java/ocr)
-* [Kotlin](kotlin)
 * Code
   * [Linux](code/linux.md)
   * [Gradle](code/gradle.md)
@@ -52,7 +49,12 @@
 * [Writing](writing)
   * [Markdown](writing/markdown)
     * [Markdown Tables](writing/markdown/tables.md)
-* [Python](python)
+* Programming languages
+  * [Java](programming-languages/java)
+    * [Java | OCR](programming-languages/java/ocr)
+  * [Go](programming-languages/go)
+  * [Kotlin](programming-languages/kotlin)
+  * [Python](programming-languages/python)
 * [Optimization](optimization)
   * Email
     * [Zero inbox](optimization/email/zero-inbox.md)
