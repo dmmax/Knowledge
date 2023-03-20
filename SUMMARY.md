@@ -10,8 +10,6 @@
 * SSH
   * [SSH bastion | SSH Jump host](ssh/ssh-jump-host.md)
   * [SCP](ssh/scp.md)
-* Company
-  * [Corporate culture](company/corporate-culture)
 * [Management](management)
 * [Analytics](analytics)
 * Distributed systems
@@ -65,3 +63,5 @@
   * [Recipes](food/recipes)
     * [Tiramisu](food/recipes/tiramisu.md)
 * [People](people)
+* [Work](work)
+  * [Feedback](work/feedback.md)
