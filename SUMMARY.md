@@ -40,6 +40,8 @@
     * [Where is to buy Christmas trees in Berlin](germany/berlin/christmas-tree.md)
   * [Internet in Germany](germany/internet)
     * [Install custom router for telekom](germany/internet/telekom-install-custom-router.md)
+* Transport
+  * [Bikes](transport/bikes)
 * Travel
   * Russia
     * [Moscow](travel/russia/moscow)
