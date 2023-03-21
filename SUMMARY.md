@@ -8,8 +8,9 @@
   * [Linux](code/linux.md)
   * [Gradle](code/gradle.md)
 * Distributed systems
+  * [Akka](distributed-systems/akka.md) 
   * [Analytics](distributed-systems/analytics)
-  * [Kafka](distributed-systems/kafka)
+  * [Kafka](distributed-systems/kafka.md)
   * [Rebalancing](distributed-systems/rebalancing.md)
   * RPC
     * [gRPC](distributed-systems/rpc/grpc.md)
