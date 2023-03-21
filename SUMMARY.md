@@ -3,7 +3,16 @@
 * [AI - Artificial Intelligent](ai)
   * [AI-labeling](ai/labeling.md)
   * [AI-training](ai/training.md)
+* [Analytics](analytics)
 * [Books](books)
+* Code
+  * [Linux](code/linux.md)
+  * [Gradle](code/gradle.md)
+* Distributed systems
+  * [Kafka](distributed-systems/kafka)
+  * [Rebalancing](distributed-systems/rebalancing.md)
+  * RPC
+    * [gRPC](distributed-systems/rpc/grpc.md)
 * [Git](git)
 * [GH CLI](gh-cli)
   * [GH CLI | Pull Request](gh-cli/gh-cli-pr.md)
@@ -11,14 +20,6 @@
   * [SSH bastion | SSH Jump host](ssh/ssh-jump-host.md)
   * [SCP](ssh/scp.md)
 * [Management](management)
-* [Analytics](analytics)
-* Distributed systems
-  * RPC
-    * [gRPC](distributed-systems/rpc/grpc.md)
-  * [Kafka](distributed-systems/kafka)
-* Code
-  * [Linux](code/linux.md)
-  * [Gradle](code/gradle.md)
 * [System Design](system-design)
   * [CAP Theorem](system-design/cap.md)
   * [Domain Driven Design](system-design/ddd.md)
