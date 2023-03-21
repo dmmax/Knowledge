@@ -3,12 +3,12 @@
 * [AI - Artificial Intelligent](ai)
   * [AI-labeling](ai/labeling.md)
   * [AI-training](ai/training.md)
-* [Analytics](analytics)
 * [Books](books)
 * Code
   * [Linux](code/linux.md)
   * [Gradle](code/gradle.md)
 * Distributed systems
+  * [Analytics](distributed-systems/analytics)
   * [Kafka](distributed-systems/kafka)
   * [Rebalancing](distributed-systems/rebalancing.md)
   * RPC
