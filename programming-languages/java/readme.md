@@ -3,10 +3,10 @@
 ## Learning
 
 ### Akka
-* [https://academy.lightbend.com/courses/course-v1:lightbend+LRA-IntroToReactive+v1/about](Reactive Architecture(1): Introduction to Reactive Systems)
-* [https://academy.lightbend.com/courses/course-v1:lightbend+LAJ-P+v1/about](Lightbend Akka for Java - Professional)
-* [https://academy.lightbend.com/courses/course-v1:lightbend+LAC-Sharding-Java-Classic+v1/about](Lightbend Akka Cluster - Sharding (Java))
-* [https://academy.lightbend.com/courses/course-v1:lightbend+LTJ-P+v1/about](Lightbend Akka Streams for Java - Professional)
+* [Reactive Architecture(1): Introduction to Reactive Systems](https://academy.lightbend.com/courses/course-v1:lightbend+LRA-IntroToReactive+v1/about)
+* [Lightbend Akka for Java - Professional](https://academy.lightbend.com/courses/course-v1:lightbend+LAJ-P+v1/about)
+* [Lightbend Akka Cluster - Sharding (Java)](https://academy.lightbend.com/courses/course-v1:lightbend+LAC-Sharding-Java-Classic+v1/about)
+* [Lightbend Akka Streams for Java - Professional](https://academy.lightbend.com/courses/course-v1:lightbend+LTJ-P+v1/about)
 
 ## Links
 * [Regular expressions in Java - Tutorial](https://www.vogella.com/tutorials/JavaRegularExpressions/article.html)
