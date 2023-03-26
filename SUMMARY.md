@@ -10,6 +10,7 @@
 * Distributed systems
   * [Akka](distributed-systems/akka.md) 
   * [Analytics](distributed-systems/analytics)
+  * [Delivery guarantee](distributed-systems/delivery-guarantee.md)
   * [Kafka](distributed-systems/kafka.md)
   * [Rebalancing](distributed-systems/rebalancing.md)
   * RPC
