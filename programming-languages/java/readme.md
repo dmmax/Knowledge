@@ -24,3 +24,4 @@
 * [Article by Jakob Jenkov: Java Concurrency and Multithreading Tutorial](https://jenkov.com/tutorials/java-concurrency/index.html) - great
   overview of concurrency in Java. It has a lot of useful sub links to understand the topic in more details.
 * [Article by Lars Vogel: Java concurrency (multi-threading)](https://www.vogella.com/tutorials/JavaConcurrency/article.html)
+* [Article by Baelding: Java equals() and hashCode() Contracts](https://www.baeldung.com/java-equals-hashcode-contracts)
