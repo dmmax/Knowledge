@@ -7,6 +7,8 @@
 * Code
   * [Linux](code/linux.md)
   * [Gradle](code/gradle.md)
+* Computer science
+  * [Data Structures](computer-science/data-structures)
 * Distributed systems
   * [Akka](distributed-systems/akka.md) 
   * [Analytics](distributed-systems/analytics)
