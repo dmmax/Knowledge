@@ -26,3 +26,4 @@ system could return stale data for a period of time until the change is propagat
 * [Video by Studying with Alex: Friendly Intro To the CAP Theorem (Consistency vs Availability vs Partition Tolerance)](https://youtu.be/gkg-FAEXIkY)
   – I liked the examples which were used to explain the CAP theorem.
 * [Article by Vivek Kumar Singh: Eventual Consistency vs Strong Consistency](https://medium.com/system-design-blog/eventual-consistency-vs-strong-consistency-b4de1f92534d)
+* [Article by Peter Bailis: Linearizability versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/)
