@@ -23,6 +23,7 @@
 * SSH
   * [SSH bastion | SSH Jump host](ssh/ssh-jump-host.md)
   * [SCP](ssh/scp.md)
+* [Learning](learning)
 * [Management](management)
 * [Reactive systems](reactive-systems)
 * [System Design](system-design)
