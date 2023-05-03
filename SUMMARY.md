@@ -9,6 +9,7 @@
   * [Gradle](code/gradle.md)
 * Computer science
   * [Data Structures](computer-science/data-structures)
+  * [Algorithms](computer-science/algorithms)
 * Distributed systems
   * [Akka](distributed-systems/akka.md) 
   * [Analytics](distributed-systems/analytics)
