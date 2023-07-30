@@ -20,6 +20,9 @@
   * [Rebalancing](distributed-systems/rebalancing.md)
   * RPC
     * [gRPC](distributed-systems/rpc/grpc.md)
+* Food
+  * [Recipes](food/recipes)
+    * [Tiramisu](food/recipes/tiramisu.md)
 * [Git](git)
 * [GH CLI](gh-cli)
   * [GH CLI | Pull Request](gh-cli/gh-cli-pr.md)
@@ -72,9 +75,9 @@
 * Finance
   * [Investment](finance/investment)
     * [Online brokers](finance/investment/online-brokers.md)
-* Food
-  * [Recipes](food/recipes)
-    * [Tiramisu](food/recipes/tiramisu.md)
 * [People](people)
+* Unix
+  * Shell
+    * [ZSH](unix/shell/zsh.md) 
 * [Work](work)
   * [Feedback](work/feedback.md)
