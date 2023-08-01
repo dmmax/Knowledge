@@ -66,6 +66,7 @@
   * [Java](programming-languages/java)
     * [Java | OCR](programming-languages/java/ocr)
     * [Java | Spring](programming-languages/java/spring)
+    * [JAVA | How to install multiple Java versions on macOS](programming-languages/java/install-multiple-java-versions.md)
   * [Go](programming-languages/go)
   * [Kotlin](programming-languages/kotlin)
   * [Python](programming-languages/python)
