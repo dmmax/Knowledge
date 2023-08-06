@@ -41,7 +41,6 @@
 * [OCR](ocr)
 * Productivity
   * [Alfred](productivity/alfred)
-* [Security](security)
 * Health
   * [Teeth](health/teeth.md)
 * [Devops](devops)
@@ -77,6 +76,8 @@
   * [Investment](finance/investment)
     * [Online brokers](finance/investment/online-brokers.md)
 * [People](people)
+* [Security](security)
+  * [SaaS Security](security/saas-security.md)
 * Unix
   * Shell
     * [ZSH](unix/shell/zsh.md) 
