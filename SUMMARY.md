@@ -44,7 +44,8 @@
 * Health
   * [Teeth](health/teeth.md)
 * [Devops](devops)
-* Database
+* Data stores
+  * [Elasticsearch](database/elasticsearch)
   * [Mongo](database/mongo)
 * Germany
   * Berlin
