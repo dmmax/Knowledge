@@ -2,7 +2,7 @@
 
 ## Learning
 
-* [https://www.educative.io/path/scalability-system-design](Scalability & System Design for Developers)
+* [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
 
 ## Links
 
