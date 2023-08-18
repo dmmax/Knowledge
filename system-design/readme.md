@@ -6,6 +6,8 @@
 
 ## Links
 
+* [High Scalability](http://highscalability.com/)
+* [Github Repo: System design Primer](https://github.com/donnemartin/system-design-primer)
 * [RESTful API Design. Best Practices in a Nutshell](https://phauer.com/2015/restful-api-design-best-practices/)
 * [Anemic Domain Model](https://martinfowler.com/bliki/AnemicDomainModel.html)
 * [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
