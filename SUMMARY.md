@@ -11,6 +11,8 @@
   * [Data Structures](computer-science/data-structures)
   * [Algorithms](computer-science/algorithms)
 * [Container](container)
+  * [Docker](container/docker)
+    * [Docker | Private Docker Registry](container/docker/private-docker-registry.md)
   * [Kubernetes](container/kubernetes) 
 * Distributed systems
   * [Akka](distributed-systems/akka.md) 
