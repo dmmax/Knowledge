@@ -23,7 +23,7 @@
   * [Kafka](distributed-systems/kafka.md)
   * [Rebalancing](distributed-systems/rebalancing.md)
   * RPC
-    * [gRPC](distributed-systems/rpc/grpc.md)
+    * [gRPC](distributed-systems/communication/grpc.md)
 * Food
   * [Recipes](food/recipes)
     * [Tiramisu](food/recipes/tiramisu.md)
