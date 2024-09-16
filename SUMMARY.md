@@ -12,6 +12,7 @@
 * Computer science
   * [Data Structures](computer-science/data-structures)
   * [Algorithms](computer-science/algorithms)
+  * [Concurrency](computer-science/concurrency)
 * [Container](container)
   * [Docker](container/docker)
     * [Docker | Private Docker Registry](container/docker/private-docker-registry.md)
