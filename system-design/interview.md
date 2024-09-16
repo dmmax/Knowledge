@@ -7,3 +7,4 @@
 * [Article: Load Balancer system design interview questions](https://www.geeksforgeeks.org/load-balancer-system-design-interview-question/?ref=rp)
 * [Article: System Design Pastebin](https://systemdesign.one/system-design-pastebin/#how-does-pastebin-work) - very
   detailed example of a system design interview
+* [Article: Wechat Architecture That Powers 1.67 Billion Monthly Users](https://newsletter.systemdesign.one/p/chat-application-architecture)
